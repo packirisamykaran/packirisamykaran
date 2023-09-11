@@ -10,7 +10,7 @@ Software Developer
 * 🚀  I'm currently working on [Kyzzen](http://Kyzzen.io)
 * 🤝  I'm open to collaborating on Web3 projects
 
-### Skills
+### Techs i have worked with
 
 <p align="left">
         <a href="https://go.dev/doc/" target="_blank" rel="noreferrer" style="padding: 2rem;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
